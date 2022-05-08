@@ -21,7 +21,7 @@ body{
     background-color: var(--Background);
     font-family: "Outfit", sans-serif;
 }
-main{
+.container{
     min-height: 100%;
     max-width: 20rem;
     display: flex;
