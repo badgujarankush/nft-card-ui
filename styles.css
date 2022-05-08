@@ -4,7 +4,7 @@
   --Break-line: hsl(215, 32%, 27%);
   --White: hsl(0, 0%, 100%);
 }
-/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;600&display=swap'); */
+
 * {
   margin: 0;
   padding: 0;
@@ -21,7 +21,9 @@ body{
     background-color: var(--Background);
     font-family: "Outfit", sans-serif;
 }
-
+main{
+    height: 100%;
+}
 .container{
     min-height: 100%;
     max-width: 20rem;
