@@ -22,9 +22,6 @@ body{
     font-family: "Outfit", sans-serif;
 }
 main{
-    height: 100%;
-}
-.container{
     min-height: 100%;
     max-width: 20rem;
     display: flex;
@@ -33,6 +30,7 @@ main{
     align-items: center;
     margin: auto;
 }
+
 
 .card{
     width: 100%;
